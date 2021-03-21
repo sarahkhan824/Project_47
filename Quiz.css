@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+h1
+{
+    text-align: center;
+}
+
+.button
+{
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    background-color: aquamarine;
+    cursor: pointer;
+    margin: 0 2px 0 2px ;
+    
+}
+#container
+{
+    background-color:cornflowerblue;
+    border-radius: 5px ;
+    color: crimson;
+    width: 50%;
+    margin: 150px auto;
+
+}
+#next
+{
+display : none;
+}
+#previous
+{
+display : none;
+}
+input[ type = radio]
+{
+    cursor: pointer;
+    
+}
